@@ -34,7 +34,7 @@ Example of input file content:
 
 ## What to expect from this service?
 
-Input image: examples/ocr_image.jpg
+Input image: examples/ocr_image.jpg\
 [![imageban](https://i5.imageban.ru/out/2022/08/30/483116767c64a67a517d3b814f66be8a.jpg)](https://imageban.ru)
 
 Response: text: "LICENSEE OF MCDONALD'S"
