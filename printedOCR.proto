@@ -14,5 +14,5 @@ message Text {
 }
 
 service printedOCR {
-    rpc OCR(Image) returns (Text) {}
+    rpc printedOCR(Image) returns (Text) {}
 }
