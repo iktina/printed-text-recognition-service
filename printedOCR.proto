@@ -4,7 +4,6 @@ package printedOCR;
 
 message Image {
     bytes img_data = 1;
-    string img_format = 2;
 }
 
 message Text {
