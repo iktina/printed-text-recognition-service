@@ -21,9 +21,7 @@ The service works only with images of printed text lines. If there are several l
 The user must provide the following inputs in order to start the service and get a response:
 
 Inputs:
-
- -   `endpoint`: -
- -   `method`: -
+ -   `method`: printedOCR
  -   `input_path`: Path to '\*.txt' file containing JSON representation of input argument 'file@data' and its value - path to '\*.[image format extension]' input image file.
 
 Example of input file content:
